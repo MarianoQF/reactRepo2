@@ -1,0 +1,22 @@
+.barraNav{
+    background-color: cadetblue;
+    height: 40px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.botonesNav{
+    padding: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+
+.fotoNAv{
+    width: 25px;
+}
+
+.carritoNav{
+    width: 15px;
+}
